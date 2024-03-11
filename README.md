@@ -9,7 +9,13 @@ Welcome to DiscoverDestiny, your ultimate destination for travel inspiration and
 - Easy navigation: User-friendly interface for seamless browsing.
 - Mobile responsive: Enjoy the same great experience on all devices, from desktops to smartphones.
 
+## Technologies Used
 
+- HTML
+- CSS
+- JavaScript
+
+  
 ## Support
 
 If you encounter any issues or have any questions, please feel free to contact us at diksharaut2511@gmail.com
