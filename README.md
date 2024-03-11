@@ -1,2 +1,19 @@
-# Raido_15-08-23
-Create Your Dream Travel Website from Scratch! Join us in this step-by-step tutorial as we guide you through building a stunning and interactive landing page using HTML, CSS, and Javascript.
+# DiscoverDestiny Travel Website
+
+Welcome to DiscoverDestiny, your ultimate destination for travel inspiration and planning! Our website is designed to help you discover your dream destinations and plan unforgettable trips.
+
+## Features
+
+- Stunning visuals: Explore breathtaking images of destinations around the world.
+- Inspiring content: Read engaging articles and travel stories to fuel your wanderlust.
+- Easy navigation: User-friendly interface for seamless browsing.
+- Mobile responsive: Enjoy the same great experience on all devices, from desktops to smartphones.
+
+
+## Support
+
+If you encounter any issues or have any questions, please feel free to contact us at diksharaut2511@gmail.com
+
+
+
+
