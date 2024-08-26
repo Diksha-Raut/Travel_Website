@@ -5,7 +5,7 @@ Welcome to DiscoverDestiny, your ultimate destination for travel inspiration and
 ## Features
 
 - Stunning visuals: Explore breathtaking images of destinations around the world.
-- Inspiring content: Read engaging articles and travel stories to fuel your wanderlust.
+- Inspiring content: Read engaging articles and travel stories to fuel your wanderlust.vchaltt
 - Easy navigation: User-friendly interface for seamless browsing.
 - Mobile responsive: Enjoy the same great experience on all devices, from desktops to smartphones.
 
@@ -15,7 +15,6 @@ Welcome to DiscoverDestiny, your ultimate destination for travel inspiration and
 - CSS
 - JavaScript
 
-  
 ## Support
 
 If you encounter any issues or have any questions, please feel free to contact us at diksharaut2511@gmail.com
